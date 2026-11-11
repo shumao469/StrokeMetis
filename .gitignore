@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+.coverage
+*.zip
+*.pptx
+*.xlsx
+*.sqlite*
+~$*
+source_data/
+results/
+artifacts/
