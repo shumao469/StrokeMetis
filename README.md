@@ -1,4 +1,5 @@
 # StrokeMetis audit snapshot
+<img width="390" height="130" alt="image" src="https://github.com/user-attachments/assets/9281f605-e52d-40c5-bb55-b06364502f1f" />
 
 **Stroke Metabolomics Evidence Triangulation and Identification System**
 
@@ -60,7 +61,5 @@ a manifest with a file mismatch, and `2` for invalid input or an I/O error.
 
 ## Data and reuse
 
-No study data, frozen study results, third-party code, figures, or credentials
-are included. Tests use synthetic fixtures only. See [Data and method
-sources](DATA_SOURCES.md) for upstream provenance. No project-wide reuse
-license is stated in this snapshot; no upstream data rights are granted here.
+See [Data and method
+sources](DATA_SOURCES.md) for upstream provenance. Copyright Fudan University-Xu lab-shumaoxu@fudan.edu.cn
