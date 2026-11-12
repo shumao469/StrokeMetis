@@ -1,5 +1,5 @@
 # StrokeMetis audit snapshot
-<imag alt="image" src="https://github.com/user-attachments/assets/9281f605-e52d-40c5-bb55-b06364502f1f" />
+<img width="1200" height="520" alt="image" src="https://github.com/user-attachments/assets/f81f58c2-3cd0-4da7-a5a3-6c950ac9b86a" />
 
 **Stroke Metabolomics Evidence Triangulation and Identification System**
 
